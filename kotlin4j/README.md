@@ -2,6 +2,16 @@
 
 ---
 
+# Agenda
+
+- Introduction <!-- .element: class="fragment" -->
+- What is Kotlin? <!-- .element: class="fragment" -->
+- A bit of history <!-- .element: class="fragment" -->
+- Demo <!-- .element: class="fragment" -->
+- Real world usecases <!-- .element: class="fragment" -->
+
+---
+
 ### Who am I?
 
 - Viktor 👨‍💻 <!-- .element: class="fragment" -->
@@ -209,17 +219,21 @@ An island near St. Petersburg <!-- .element: class="fragment" data-fragment-inde
 <!-- TODO(vic): Picture prayer to the demo gods -->
 
 Note:
-- Main and basic syntax
-- Null safety
-- String interpolation
-- Data classes
-- Java interop
-- Higher order functions
+- Null safety - covariance, ?, !!, collections
+- String interpolation - multiline, params
+- Data classes - default and named parameters
+- Java interop - companion object and @JvmStatic
+- Higher order functions and SAM - lambdas, SAM, infix
+- delegates (by lazy)
 
 
 ---
 
-# A few prod stories
+# In the real world
+
+---
+
+# REWE 🤖
 
 ----
 
@@ -269,3 +283,15 @@ Note:
 ---
 
 # Thank you!
+
+Slides @ [cutt.ly/kotlin4j](https://cutt.ly/kotlin4j)
+
+---
+
+# Interesting reads / conferences
+
+- [Sporing One 2019](https://springoneplatform.io/2019/sessions)
+- [Android Dev Summit 2019](https://developer.android.com/dev-summit/)
+- [Kotlin - The Good, The Bad and The Ugly](https://medium.com/keepsafe-engineering/kotlin-the-good-the-bad-and-the-ugly-bf5f09b87e6f)
+- [Build Performance @ Uber](https://eng.uber.com/measuring-kotlin-build-performance/)
+- [Kotlin Adoption - Khan Academy](https://engineering.khanacademy.org/posts/kotlin-adoption.htm)
